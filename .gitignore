@@ -1,0 +1,7 @@
+# Ignore everything but the .gitignore, script and README
+
+*
+
+!.gitignore
+!dev.sh
+!README.md
